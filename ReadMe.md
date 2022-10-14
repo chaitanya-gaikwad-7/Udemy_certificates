@@ -9,5 +9,5 @@
 9. Udemy_Jenkins.pdf https://www.udemy.com/certificate/UC-d4c5f057-e2ea-4657-b179-93f3d85f9b50/
 10. Udemy_Kali_Linux.pdf https://www.udemy.com/certificate/UC-41b9a847-91d1-4188-87af-bc6e3012a2f9/
 11. Udemy_Kubernetes.pdf https://www.udemy.com/certificate/UC-2adaab97-3303-4785-8c5c-014f85c273e5/
-12. Udemy_terraform.pdf https://www.udemy.com/certificate/UC-8eccbfb1-b3aa-464b-8c68-8b48c56f4849/
+12. Udemy_Terraform.pdf https://www.udemy.com/certificate/UC-8eccbfb1-b3aa-464b-8c68-8b48c56f4849/
 13. Udemy_YAML.pdf https://www.udemy.com/certificate/UC-5bc3f11a-aae0-455d-a31c-39357170acc0/
